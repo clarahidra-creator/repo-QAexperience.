@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,currency,amount,source_file
+1,101,2025-09-01,USD,120.5,20250901_orders.csv
+2,102,2025-09-01,USD,89.99,20250901_orders.csv
+3,102,2025-09-02,USD,49.0,20250902_orders.csv
